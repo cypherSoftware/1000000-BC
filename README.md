@@ -1,3 +1,4 @@
+
 WELCOME to 100,000 B.C.E!
 
 In a WORLD... Before Computer Entertainment...
@@ -185,3 +186,6 @@ Really. Ok. Fine:
 since everybody missed our slide presentation and game demo, you can check out the slide show on google slides by visiting the following link:
 
 https://docs.google.com/presentation/d/1L3swqvPgNX7IJ3sWNz9yo-bcl-135HPdW4-76n9eXew/edit?usp=sharing
+
+# 1000000-BC
+Fun cave man game created as a final project for CSC 335 at U of A
