@@ -1,3 +1,5 @@
+To Play the Game you need to clone the repository to get the .java files.  Then open the WorldView.java file and run it.
+
 
 WELCOME to 100,000 B.C.E!
 
